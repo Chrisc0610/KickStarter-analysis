@@ -17,7 +17,7 @@ To help Louise visualize how different campaigns fared in realtion their launch 
 	* I then created columns based of Succesful, Failed,Canceled and their Grand Totals.
 	* the X axis is comparing it by months with the Values being Count of Outcomes. 
 	* The picture below shows the comparison line graph that visualizes the data.
-	* ! [Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
+	* [Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
 	
 	
 ### Analysis of Outcomes Based on Goals
@@ -27,6 +27,7 @@ To help Louise visualize how different campaigns fared in realtion their launch 
 	* Once I got the countifs calculated I totaled them up in a separate columns.
 	* I used the totals to run a simple percentage calculation, to get the total percentage values.
 	* The image below shows the outcome, notice how one line is stagnant at zero, this is due to there being no values for cancelled fundraisers.
+	* Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 	
 ### Challenges and Difficulties Encountered
 - Some challenges that you may encounter.
