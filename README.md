@@ -2,15 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
-	To help Louise visualize how different campaigns fared in realtion their launch dates and their funding goals.
 
-## Analysis and Challenges
-	In order to properly visualize the dataset by year, the original Kickstarter spreadsheet needed the following adjustments:
-		A new column named "Date Created Conversion" was made that converts The "launched_at" column from Epoch time to Date/Year using a formula.
-		Then a new column named "Years" needed to be created which only pulls the year out of the "Date Created Conversion" coulumn.
-		Finally Pivot Tables are created. 
-		The "live" catergory has to be been removed from the filter as this data may cause any chart to get skewed.
 ### Analysis of Outcomes Based on Launch Date
 	This analysis was achieved by creating a pivot table and filtering out the Parent Catergory and Years from the original spreadsheet. 
 	I Created columns based of Succesful, Failed,Canceled and their Grand Totals.
