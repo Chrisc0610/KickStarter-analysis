@@ -17,6 +17,7 @@ To help Louise visualize how different campaigns fared in realtion their launch 
 	* I then created columns based of Succesful, Failed,Canceled and their Grand Totals.
 	* the X axis is comparing it by months with the Values being Count of Outcomes. 
 	* The picture below shows the comparison line graph that visualizes the data.
+	* ! [Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
 	
 	
 ### Analysis of Outcomes Based on Goals
