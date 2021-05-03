@@ -27,7 +27,7 @@ To help Louise visualize how different campaigns fared in realtion their launch 
 	* Once I got the countifs calculated I totaled them up in a separate columns.
 	* I used the totals to run a simple percentage calculation, to get the total percentage values.
 	* The image below shows the outcome, notice how one line is stagnant at zero, this is due to there being no values for cancelled fundraisers.
-	* Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+	* [Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 	
 ### Challenges and Difficulties Encountered
 - Some challenges that you may encounter.
